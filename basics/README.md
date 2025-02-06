@@ -1,0 +1,1 @@
+script qui affiche l'adresse absolue
