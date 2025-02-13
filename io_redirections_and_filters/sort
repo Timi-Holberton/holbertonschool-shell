@@ -1,0 +1,24 @@
+root:/root
+daemon:/usr/sbin
+bin:/bin
+sys:/dev
+sync:/bin
+games:/usr/games
+man:/var/cache/man
+lp:/var/spool/lpd
+mail:/var/mail
+news:/var/spool/news
+uucp:/var/spool/uucp
+proxy:/bin
+www-data:/var/www
+backup:/var/backups
+Mailing List Manager:/var/list
+ircd:/run/ircd
+Gnats Bug-Reporting System (admin):/var/lib/gnats
+nobody:/nonexistent
+:/nonexistent
+systemd Network Management,,,:/run/systemd
+systemd Resolver,,,:/run/systemd
+:/nonexistent
+systemd Time Synchronization,,,:/run/systemd
+:/run/sshd
