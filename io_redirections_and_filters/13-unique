@@ -1,2 +1,2 @@
 #!/bin/bash
-sort --ignore-nonprinting list | uniq --ignore-case --unique
+sort | uniq -u
